@@ -69,17 +69,9 @@
 		0C07176B2C35D24300B6F38B /* NetflixCloneTmdb */ = {
 			isa = PBXGroup;
 			children = (
-				0C07176C2C35D24300B6F38B /* NetflixCloneTmdbApp.swift */,
-				0C07177A2C35D37B00B6F38B /* StartView.swift */,
-				0C07177C2C35EACE00B6F38B /* HomeView.swift */,
-				0C9C9A9A2C4BBBCE006C0D3A /* PosterScrollView.swift */,
-				0C95C77A2C3F05A4008062C9 /* DetailView.swift */,
-				0C95C7722C3C6A62008062C9 /* TrendingCardView.swift */,
-				0C95C77C2C415821008062C9 /* SearchView.swift */,
-				0C95C77E2C41594D008062C9 /* SearchCardView.swift */,
-				0C95C7762C3C7926008062C9 /* GetTrending.swift */,
-				0C95C7782C3C7962008062C9 /* Data.swift */,
-				0CCB99F22C41C34A0013FE66 /* BackButton.swift */,
+				0CBD15D82C5E6FA300A2045C /* Views */,
+				0CBD15D72C5E6F9A00A2045C /* ViewModel */,
+				0CBD15D52C5E6F8A00A2045C /* Models */,
 				0C0717702C35D24500B6F38B /* Assets.xcassets */,
 				0C0717722C35D24500B6F38B /* Preview Content */,
 			);
@@ -92,6 +84,38 @@
 				0C0717732C35D24500B6F38B /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		0CBD15D52C5E6F8A00A2045C /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				0C95C7782C3C7962008062C9 /* Data.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		0CBD15D72C5E6F9A00A2045C /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				0C95C7762C3C7926008062C9 /* GetTrending.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		0CBD15D82C5E6FA300A2045C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				0C07176C2C35D24300B6F38B /* NetflixCloneTmdbApp.swift */,
+				0C07177A2C35D37B00B6F38B /* StartView.swift */,
+				0C07177C2C35EACE00B6F38B /* HomeView.swift */,
+				0C9C9A9A2C4BBBCE006C0D3A /* PosterScrollView.swift */,
+				0C95C77A2C3F05A4008062C9 /* DetailView.swift */,
+				0C95C7722C3C6A62008062C9 /* TrendingCardView.swift */,
+				0C95C77C2C415821008062C9 /* SearchView.swift */,
+				0C95C77E2C41594D008062C9 /* SearchCardView.swift */,
+				0CCB99F22C41C34A0013FE66 /* BackButton.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
