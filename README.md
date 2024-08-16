@@ -7,6 +7,12 @@ MovieApp-TMDB, TMDB (The Movie Database) API'sini kullanarak film ve dizi verile
 - Film ve dizi detayları
 - Film ve dizi fragmanları
 
+# Ekran Görüntüleri
+- ![Uploading giris.png…]()
+- https://github.com/user-attachments/assets/d323f62a-9a34-4f27-adbe-e748a520787a
+- https://github.com/user-attachments/assets/67b993b5-c5b4-454f-8146-4a1e7d8c1f64
+- https://github.com/user-attachments/assets/844d84fa-14ee-4ea7-9916-48f5db94344c
+
 # Teknolojiler
 - Swift
 - SwiftUI
