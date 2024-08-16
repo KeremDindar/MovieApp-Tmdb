@@ -11,7 +11,8 @@ MovieApp-TMDB, TMDB (The Movie Database) API'sini kullanarak film ve dizi verile
 ![giris](https://github.com/user-attachments/assets/47982550-9e31-4c63-9398-8dbb48383730)
 ![home](https://github.com/user-attachments/assets/e5f0735c-a74a-4ef8-9e2b-c6869deda72b)
 ![search](https://github.com/user-attachments/assets/1733e6d6-64ef-4af0-acb2-97cdeb9b9753)
-![detail](https://github.com/user-attachments/assets/bd156421-5ae0-4b9f-9286-16b629393b5e)
+! <img src="https://github.com/user-attachments/assets/bd156421-5ae0-4b9f-9286-16b629393b5e" alt="detail" width="300" height="200"/>
+
 
 
 # Teknolojiler
